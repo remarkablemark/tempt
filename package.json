@@ -1,6 +1,6 @@
 {
   "name": "tempt",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simplified templating inspired by Mustache.",
   "author": "Mark <mark@remarkablemark.org>",
   "main": "index.js",
